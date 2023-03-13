@@ -1,6 +1,7 @@
 # Todo List
 This is a simple Todo List project built using JavaScript. It allows you to add items to the list, mark items as completed by striking them out, and delete items by double-clicking them.
-
+# Demo
+You can try out the app here: [Live Demo](https://vikkiroxx.github.io/To-Do-List/)
 # Usage
 To use this Todo List, simply clone this repository and open the index.html file in your web browser.
 
